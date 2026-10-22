@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fondo">#FFFFF8F6</color>
+    <color name="superficie_suave">#FFFFF0ED</color>
+    <color name="contenedor_acento">#FFFFDAD2</color>
+    <color name="texto_principal">#FF231917</color>
+    <color name="texto_secundario">#FF534340</color>
+    <color name="acento">#FF904B3B</color>
+    <color name="sobre_acento">#FFFFFFFF</color>
+    <color name="borde_suave">#FFD8C2BD</color>
+</resources>

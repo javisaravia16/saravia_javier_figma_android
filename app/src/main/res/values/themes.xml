@@ -1,0 +1,14 @@
+<resources>
+    <style name="Base.Theme.MenudoArmario" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/acento</item>
+        <item name="colorOnPrimary">@color/sobre_acento</item>
+        <item name="colorPrimaryContainer">@color/contenedor_acento</item>
+        <item name="colorSecondaryContainer">@color/contenedor_acento</item>
+        <item name="android:colorBackground">@color/fondo</item>
+        <item name="colorSurface">@color/fondo</item>
+        <item name="colorOnSurface">@color/texto_principal</item>
+        <item name="colorOnSurfaceVariant">@color/texto_secundario</item>
+    </style>
+
+    <style name="Theme.MenudoArmario" parent="Base.Theme.MenudoArmario" />
+</resources>

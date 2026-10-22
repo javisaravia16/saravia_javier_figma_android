@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Menudo Armario</string>
+    <string name="buscar_hint">Busca pijamas, bodies, zapatillas…</string>
+    <string name="seccion_compra_edad">Compra por edad</string>
+    <string name="categoria_bebe">Bebé</string>
+    <string name="categoria_nina">Niña</string>
+    <string name="categoria_nino">Niño</string>
+    <string name="edad_bebe">0-24 m</string>
+    <string name="edad_nina_nino">2-14 años</string>
+    <string name="seccion_novedades">Novedades</string>
+    <string name="btn_ver_todo">Ver todo</string>
+    <string name="producto_nombre_ejemplo">Pijama estrellas de algodón</string>
+    <string name="producto_precio_ejemplo">14,99 €</string>
+    <string name="aviso_titulo">Cambio gratis en tienda</string>
+    <string name="aviso_texto">¿No acertaste con la talla? Cámbialo en cualquier tienda.</string>
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_carrito">Carrito</string>
+    <string name="nav_favoritos">Favoritos</string>
+    <string name="cd_cuenta">Cuenta</string>
+    <string name="cd_buscar">Buscar</string>
+</resources>
